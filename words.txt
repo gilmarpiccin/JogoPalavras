@@ -1,0 +1,109 @@
+
+Leão
+Tigre
+Elefante
+Girafa
+Cavalo
+Cachorro
+Gato
+Pássaro
+Peixe
+Macaco
+
+Pinguim
+Canguru
+Zebra
+Panda
+Hipopotamo
+Orangotango
+Koala
+Lobo
+Rato
+Aranha
+
+Jacaré
+Crocodilo
+Águia
+Corvo
+Flamingo
+Búfalo
+Javali
+Urso
+Búfalo
+Rena
+
+Albert Einstein
+Isaac Newton
+Nikola Tesla
+Marie Curie
+Galileu Galilei
+Charles Darwin
+Stephen Hawking
+Richard Feynman
+Alan Turing
+Edwin Hubble
+William Shakespeare
+Ludwig van Beethoven
+
+Leonardo da Vinci
+Pablo Picasso
+Mahatma Gandhi
+Nelson Mandela
+Martin Luther King Jr.
+Oprah Winfrey
+Elon Musk
+Jeff Bezos
+
+Dentista
+Médico
+Professor
+Engenheiro
+Advogado
+Arquiteto
+Cozinheiro
+Programador
+Enfermeiro
+Vendedor
+Enfermeiro
+Fotógrafo
+Designer
+Contador
+Jornalista
+Tradutor
+Mecânico
+Agricultor
+Carpinteiro
+Motorista
+Mágico
+Comediante
+Dançarino
+Jogador
+Curador
+Crítico
+Editor
+Vocalista
+Guitarrista
+Baterista
+
+
+Limpando janela
+Dirigindo carro
+Cozinhando
+Lendo livro
+Assistindo TV
+Fazendo compras
+Trabalhando no computador
+Estudando
+Fazendo exercício
+Trocando uma lâmpada
+Arrumando a cama
+Tomando banho
+Escovando os dentes
+Ouvindo música
+Caminhando no parque
+Conversando com amigos
+Escrevendo
+Desenhando
+Pintando
+Jardinando
+Fazendo jardinagem
